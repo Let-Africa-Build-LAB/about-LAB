@@ -59,7 +59,7 @@ LAB evolved from a community developer onboarding project that demonstrated meas
 - Operational LMS infrastructure  
 - Institutional partnerships with universities and youth organizations  
 - Coordinated builder programs with cumulative funding exceeding ₦128m during pilot activation phases  
-- Secured and executed a $70,000 milestone-based grant  
+- Secured a [$70,000 milestone-based grant](https://github.com/stacksgov/sip31-interim-grants/issues/17)  
 
 The operational framework developed during the pilot phase has now been formalized into a scalable Bitcoin contributor pipeline.
 
