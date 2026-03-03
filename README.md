@@ -28,16 +28,12 @@ The program is designed to move developers from foundational knowledge to sustai
 ---
 
 ## Ecosystem Partners, Collaborations & Grant Partnerships
-
-
 LAB operates through structured collaboration with ecosystem, institutional, and community partners that support Bitcoin L1 and L2 developer training, open-source contribution programs, and regional activation initiatives.
 
 ### Grant & Ecosystem Partners
-
 - **Stacks** - Ongoing milestone-based grant program providing Clarity smart contract development exposure, Layer 2 experimentation support, and technical mentorship integration within the LAB incubator track.
 
 ### Institutional & Strategic Partners
-
 - **LCI (Lions Clubs International)** - Institutional alignment supporting structured youth development, leadership integration, and community-based activation programs aligned with LAB’s technical empowerment initiatives.
 
 - **NGGA (National Gender & Growth Association)** - Strategic collaboration supporting inclusive technical onboarding, capacity development programs, and broader participation in blockchain and digital infrastructure education.
@@ -45,9 +41,7 @@ LAB operates through structured collaboration with ecosystem, institutional, and
 - **NYCN (National Youth Council of Nigeria)** - Alignment toward youth employment initiatives, regional activation support, and structured technical workforce development partnerships.
 
 ### University & Campus Activation Partners
-
 LAB has executed structured workshops and technical activations in collaboration with universities and campus communities to expand Bitcoin developer participation.
-
 - University partnerships supporting technical workshops and onboarding
 - Campus communities participating in cohort-based contributor programs
 - Regional institutions hosting activation tours and hackathons
@@ -55,11 +49,9 @@ LAB has executed structured workshops and technical activations in collaboration
 ---
 
 ## Origin & Evolution
-
 LAB evolved from a community developer onboarding project that demonstrated measurable traction through structured workshops, milestone-based grant execution, and developer cohort programs.
 
 **Pilot achievements include:**
-
 - 300+ developers onboarded across Africa and Australia  
 - Structured workshops and bootcamps  
 - Execution of milestone-based grants  
@@ -74,9 +66,7 @@ The operational framework developed during the pilot phase has now been formaliz
 ---
 
 ## Program Model
-
 LAB operates a structured cohort cycle:
-
 1. Technical Screening & Onboarding  
 2. 6-Month Bitcoin L1 & L2 Bootcamp  
 3. Contributor Sprint & Infrastructure Collaboration  
@@ -84,7 +74,6 @@ LAB operates a structured cohort cycle:
 5. Performance-Based Contributor Fellowship  
 
 **Measured outputs include:**
-
 - Pull requests submitted  
 - Pull requests merged  
 - Contributor retention metrics  
@@ -98,7 +87,6 @@ The model is designed for measurable technical output rather than short-term wor
 ## Regional Bitcoin Labs - Infrastructure & Sustainability Model
 
 Regional Bitcoin Labs function as distributed infrastructure anchors supporting:
-
 - Bitcoin node experimentation  
 - Layer 2 testing environments  
 - Contributor sprint collaboration  
@@ -111,7 +99,6 @@ These labs integrate education, open-source output, corporate engagement, and go
 ---
 
 ## Target Audience
-
 LAB engages across three primary stakeholder groups:
 
 ### 1. Developers & Technical Builders  
@@ -125,9 +112,7 @@ Public institutions, youth organizations, and innovation agencies seeking struct
 
 ---
 ## Funding & Collaboration
-
 LAB operates as a Company Limited and welcomes structured collaboration through:
-
 - Cohort sponsorship  
 - Contributor fellowship funding  
 - Regional Lab infrastructure support  
@@ -140,9 +125,7 @@ For partnership or funding discussions:
 ---
 
 ## Transparency & Reporting
-
 LAB maintains a commitment to measurable execution and transparent reporting through:
-
 - GitHub-based contribution tracking  
 - Quarterly program impact reports  
 - Structured milestone documentation  
@@ -153,13 +136,11 @@ LAB maintains a commitment to measurable execution and transparent reporting thr
 ## Founder
 
 **Eniola Samuel (Sam)** is the founder of Let Africa Build.
-
 He previously led community developer onboarding initiatives within the Bitcoin Layer 2 ecosystem in Africa, building structured technical programs, institutional partnerships, and measurable grant-backed developer pipelines designed to expand Africa’s participation in global Bitcoin infrastructure development.
 
 ---
 
 ## Mission
-
 To strengthen Africa’s participation in global Bitcoin infrastructure by building technically capable developers, contributors, and infrastructure-focused teams while supporting broader blockchain innovation frameworks aligned with national development priorities.
 
 ---
