@@ -93,7 +93,7 @@ The model is designed for measurable technical output rather than short-term wor
 
 ---
 
-## Regional Bitcoin Labs – Infrastructure & Sustainability Model
+## Regional Bitcoin Labs - Infrastructure & Sustainability Model
 
 Regional Bitcoin Labs function as distributed infrastructure anchors supporting:
 
@@ -120,6 +120,20 @@ Bitcoin and blockchain-aligned companies seeking access to trained developer pip
 
 ### 3. Government & Institutional Partners  
 Public institutions, youth organizations, and innovation agencies seeking structured blockchain capacity building and digital economy workforce development programs.
+
+---
+## Funding & Collaboration
+
+LAB operates as a Company Limited and welcomes structured collaboration through:
+
+- Cohort sponsorship  
+- Contributor fellowship funding  
+- Regional Lab infrastructure support  
+- Grant-backed research modules  
+- Institutional blockchain workforce programs
+
+For partnership or funding discussions:  
+📧 hello@letafricabuild.com
 
 ---
 
