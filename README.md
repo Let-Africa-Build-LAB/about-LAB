@@ -1,65 +1,166 @@
 # About Let Africa Build (LAB)
-Institutional overview, proof of work, program model, and founder background for Let Africa Build.
-<img width="1920" height="1080" alt="Content" src="https://github.com/user-attachments/assets/c1b6018f-a510-4a19-bb49-827fdb28d197" />
 
-Let Africa Build (LAB) is Africa’s first Bitcoin development hub and incubator. We train and support the next generation of African developers and technical founders in Bitcoin fundamentals, Lightning infrastructure, and open-source collaboration. Through structured programs, mentorship, and hands-on experience across the Bitcoin ecosystem, including Layer 2 solutions such as Stacks, we prepare new builders to develop infrastructure that positions Africa to participate meaningfully in the global digital economy while creating scalable economic solutions across the continent.
+Let Africa Build (LAB) is a Bitcoin-focused open-source developer pipeline piloting in Nigeria. LAB trains, mentors, and retains African developers into sustained Bitcoin Layer 1 (L1) and Layer 2 (L2) contributors through structured cohorts, contributor sprints, and measurable GitHub output.
 
-LAB operates through a hybrid model combining structured technical education, contributor sprints, incubation, and Regional Bitcoin Labs.
+While technically grounded in Bitcoin infrastructure development, LAB also frames its work within broader blockchain innovation narratives when engaging government and institutional stakeholders focused on digital economy development.
+
+Our objective is to increase Africa’s participation in global Bitcoin infrastructure while creating measurable employment and technical capacity outcomes.
+
+---
+
+## Technical Focus: Bitcoin Layer 1 & Layer 2
+
+LAB focuses on:
+
+- Bitcoin Layer 1 protocol architecture  
+- Node operation and validation  
+- UTXO model and transaction mechanics  
+- Bitcoin Layer 2 scaling systems  
+- Lightning Network infrastructure  
+- Applied Layer 2 development  
+- Clarity smart contract tooling (via ecosystem partnership)  
+- Open-source contribution workflows  
+
+The program is designed to move developers from foundational knowledge to sustained open-source contribution.
+
+---
+
+## Ecosystem Partners, Collaborations & Grant Partnerships
+
+
+LAB operates through structured collaboration with ecosystem, institutional, and community partners that support Bitcoin L1 and L2 developer training, open-source contribution programs, and regional activation initiatives.
+
+### Grant & Ecosystem Partners
+
+- **Stacks** - Ongoing milestone-based grant program providing Clarity smart contract development exposure, Layer 2 experimentation support, and technical mentorship integration within the LAB incubator track.
+
+### Institutional & Strategic Partners
+
+- **LCI (Lions Clubs International)** - Institutional alignment supporting structured youth development, leadership integration, and community-based activation programs aligned with LAB’s technical empowerment initiatives.
+
+- **NGGA (National Gender & Growth Association)** - Strategic collaboration supporting inclusive technical onboarding, capacity development programs, and broader participation in blockchain and digital infrastructure education.
+
+- **NYCN (National Youth Council of Nigeria)** - Alignment toward youth employment initiatives, regional activation support, and structured technical workforce development partnerships.
+
+### University & Campus Activation Partners
+
+LAB has executed structured workshops and technical activations in collaboration with universities and campus communities to expand Bitcoin developer participation.
+
+- University partnerships supporting technical workshops and onboarding
+- Campus communities participating in cohort-based contributor programs
+- Regional institutions hosting activation tours and hackathons
+
+---
 
 ## Origin & Evolution
-LAB evolved from Stacks Labs, a community-led developer onboarding initiative focused on Bitcoin Layer 2 development.
 
-**Our pilot model** <br>
-• Onboarded and trained 300+ developers across Africa and Australia <br>
-• Operated structured workshops and bootcamps <br>
-• Executed milestone-based grant programs <br>
-• Built partnerships with universities, communities, and ecosystem actors <br>
+LAB evolved from a community developer onboarding project that demonstrated measurable traction through structured workshops, milestone-based grant execution, and developer cohort programs.
 
-The operational framework, curriculum, and community model developed under Stacks Labs were formalized and expanded into LAB to build a scalable, measurable Bitcoin contributor pipeline.
+**Pilot achievements include:**
 
-## Proof of Work
-Through our precursor, we demonstrated: <br>
+- 300+ developers onboarded across Africa and Australia  
+- Structured workshops and bootcamps  
+- Execution of milestone-based grants  
+- Curriculum framework development  
+- Operational LMS infrastructure  
+- Institutional partnerships with universities and youth organizations  
+- Coordinated builder programs with cumulative funding exceeding ₦128m during pilot activation phases  
+- Secured and executed a $70,000 milestone-based grant  
 
-• 300+ developers onboarded and trained both within and outside the ecosystem (Stacks Nigeria) <br>
-•  N128m raised during the pilot builders cohort <br>
-•  Ability to create a developer-focused community <br>
-•  Potential to scale with minimum support from the [community awarded grant](https://github.com/stacksgov/decentralized-grants/issues/10) <br>
-• Structured workshops, meetups, and bootcamps <br>
-• Verifiable PoW that helped LAB secure a $70,000 milestone-based grant [Stacks SIP-31 Interim Grant](https://github.com/stacksgov/sip31-interim-grants/issues/17) <br>
-• Published curriculum framework <br>
-• Operational LMS infrastructure <br>
-• Institutional partnerships across universities, youth organizations, and ecosystem actors <br>
+The operational framework developed during the pilot phase has now been formalized into a scalable Bitcoin contributor pipeline.
 
-More info:
-https://www.notion.so/STACKS-LABS-1e39882c54ba806d96b3fca58a274d2f 
+---
 
 ## Program Model
 
-**LAB operates a structured cohort cycle:**<br>
-- Technical Onboarding & Screening <br>
-- 6-Month Bitcoin Bootcamp<br>
-- Contributor Sprint & Infrastructure Incubation<br>
-- National Bitcoin-Focused Hackathon<br>
-- Performance-Based Contributor Fellowship<br>
+LAB operates a structured cohort cycle:
 
-## Regional Bitcoin Labs<br>
-- LAB activates phased Regional Bitcoin Labs to support:<br>
-- Bitcoin node experimentation<br>
-- Lightning testing environments<br>
-- Infrastructure refinement<br>
-- Contributor sprint collaboration<br>
-- Periodic workshops and technical meetups<br>
+1. Technical Screening & Onboarding  
+2. 6-Month Bitcoin L1 & L2 Bootcamp  
+3. Contributor Sprint & Infrastructure Collaboration  
+4. National Bitcoin-Focused Hackathon  
+5. Performance-Based Contributor Fellowship  
 
-These labs support measurable open-source engagement during the cohort cycle.
+**Measured outputs include:**
+
+- Pull requests submitted  
+- Pull requests merged  
+- Contributor retention metrics  
+- Quarterly transparency reports  
+- Fellowship progression tracking  
+
+The model is designed for measurable technical output rather than short-term workshop activity.
+
+---
+
+## Regional Bitcoin Labs – Infrastructure & Sustainability Model
+
+Regional Bitcoin Labs function as distributed infrastructure anchors supporting:
+
+- Bitcoin node experimentation  
+- Layer 2 testing environments  
+- Contributor sprint collaboration  
+- Sponsor-backed technical programming  
+- Institutional blockchain training partnerships  
+- Long-term contributor retention  
+
+These labs integrate education, open-source output, corporate engagement, and government-aligned blockchain innovation initiatives within a sustainable framework.
+
+---
+
+## Target Audience
+
+LAB engages across three primary stakeholder groups:
+
+### 1. Developers & Technical Builders  
+Individuals seeking structured pathways into Bitcoin L1 and L2 infrastructure development and open-source contribution.
+
+### 2. Corporate & Ecosystem Sponsors  
+Bitcoin and blockchain-aligned companies seeking access to trained developer pipelines, technical visibility, and regional ecosystem engagement.
+
+### 3. Government & Institutional Partners  
+Public institutions, youth organizations, and innovation agencies seeking structured blockchain capacity building and digital economy workforce development programs.
+
+---
+
+## Transparency & Reporting
+
+LAB maintains a commitment to measurable execution and transparent reporting through:
+
+- GitHub-based contribution tracking  
+- Quarterly program impact reports  
+- Structured milestone documentation  
+- Public demo sessions and contributor showcases  
+
+---
 
 ## Founder
-Dr. Eniola Samuel is the founder of Let Africa Build and previously led Stacks Africa initiatives.
 
-He created one of the first community-recognized developer onboarding initiatives within the Bitcoin Layer 2 ecosystem in Africa, building partnerships with universities, community organizations, and public institutions to expand developer participation in Bitcoin infrastructure.
+**Eniola Samuel (Sam)** is the founder of Let Africa Build.
 
-Through Stacks Labs and now LAB, he has focused on building structured, measurable technical education pathways designed to increase Africa’s participation in global Bitcoin infrastructure development.
+He previously led community developer onboarding initiatives within the Bitcoin Layer 2 ecosystem in Africa, building structured technical programs, institutional partnerships, and measurable grant-backed developer pipelines designed to expand Africa’s participation in global Bitcoin infrastructure development.
+
+---
 
 ## Mission
-To strengthen Africa’s participation in global Bitcoin infrastructure by building technically capable developers, contributors, and infrastructure-focused teams.
 
-For more info about our programs visit our Website - https://www.letafricabuild.com/
+To strengthen Africa’s participation in global Bitcoin infrastructure by building technically capable developers, contributors, and infrastructure-focused teams while supporting broader blockchain innovation frameworks aligned with national development priorities.
+
+---
+
+## Call to Action
+
+### For Developers  
+Apply to join the next cohort and begin your structured pathway into Bitcoin L1 and L2 development.<br>
+https://www.letafricabuild.com/programs
+
+### For Sponsors & Ecosystem Partners  
+Sponsor a cohort, support contributor fellowships, or collaborate through Regional Bitcoin Labs. <br>
+https://www.letafricabuild.com/partnerships
+
+### For Government & Institutional Stakeholders  
+Partner with LAB to implement structured blockchain capacity development and technical workforce programs.
+https://www.letafricabuild.com/apply
+
+Learn more:  
+https://www.letafricabuild.com/
