@@ -1,6 +1,6 @@
 # About Let Africa Build (LAB)
 
-**Africa's First Bitcoin Development Hub & Incubator**
+**Africa's First Bitcoin Focused Developer Ecosystem & Builder Incubator**
 
 Let Africa Build (LAB) is a Bitcoin-focused open-source developer pipeline piloting in Nigeria. LAB trains, mentors, and retains African developers into sustained Bitcoin Layer 1 (L1) and Layer 2 (L2) contributors through structured cohorts, integrated applied contribution, and measurable GitHub output.
 
