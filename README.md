@@ -15,6 +15,7 @@ Our objective is to increase Africa's participation in global Bitcoin infrastruc
 ## Table of Contents
 
 - [Program Model](#program-model)
+- [Builder Incubation Program](#builder-incubation-program-3-months)
 - [Technical Focus](#technical-focus-bitcoin-layer-1--layer-2)
 - [Origin & Evolution](#origin--evolution)
 - [Ecosystem Partners](#ecosystem-partners-collaborations--grant-partnerships)
@@ -51,6 +52,21 @@ LAB operates a structured cohort cycle:
 | Fellowship progression | Milestone-based evaluation |
 
 The model is designed for measurable technical output rather than short-term workshop activity.
+
+### Builder Incubation Program (3 Months)
+
+The Builder Incubation Program is the next stage of the LAB developer pipeline. Bootcamp graduates who demonstrate strong technical contribution and open-source commitment are selected for a 3-month incubation track focused on building and shipping Bitcoin infrastructure projects.
+
+**What builders receive:**
+
+- Technical mentorship from experienced Bitcoin infrastructure developers
+- Funding support through the LAB Open Source Builders Fund and ecosystem grants
+- Infrastructure access including development environments, testing nodes, and tooling
+- Ecosystem integration with Bitcoin L1 and L2 projects and contributor communities
+
+The full pipeline operates as a progression: **Bootcamp (6 months)** to **Builder Incubation (3 months)** to **Open Source Builders Fund (ongoing)**.
+
+For more details, see the [Builder Incubation Program repository](https://github.com/Let-Africa-Build-LAB/lab-builder-incubation).
 
 ---
 
@@ -174,7 +190,7 @@ LAB maintains a commitment to measurable execution and transparent reporting thr
 
 ## Mission
 
-To strengthen Africa's participation in global Bitcoin infrastructure by building technically capable developers, contributors, and infrastructure-focused teams while supporting broader blockchain innovation frameworks aligned with national development priorities.
+LAB is building Africa's developer ecosystem for open-source blockchain infrastructure — strengthening the continent's participation in global Bitcoin infrastructure by training technically capable developers, supporting open-source contributors, and incubating infrastructure-focused builder teams.
 
 ---
 
